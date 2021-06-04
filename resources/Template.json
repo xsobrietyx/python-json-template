@@ -1,0 +1,8 @@
+{
+  "first_name": "{{ f_name }}",
+  "second_name": "{{ s_name }}",
+  "snackPack": {
+    "size": "L",
+    "weight": 10
+  }
+}
